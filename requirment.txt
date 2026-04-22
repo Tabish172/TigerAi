@@ -1,0 +1,9 @@
+SpeechRecognition
+pyaudio
+Streamlit
+pyttsx3
+ollama
+time
+json
+os
+datetime
